@@ -6,7 +6,7 @@ A personal sandbox and playground for experimenting with code across different l
 
 | Folder | Description |
 |--------|-------------|
-| [`javascript-typescript/`](./javascript) | JS playground — browser, Node, frameworks, and whatever else |
+| [`javascript/`](./javascript) | JS playground — browser, Node, frameworks, and whatever else |
 
 
 ## 🗂️ How this works
