@@ -22,7 +22,7 @@ Each folder is organized by language. Inside each one you'll find self-contained
 Clone the repo and dive into whichever folder interests you:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tinkering-grounds.git
+git clone https://github.com/Jerryart42/tinkering-grounds.git
 cd tinkering-grounds
 ```
 
